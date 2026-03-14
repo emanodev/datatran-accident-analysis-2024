@@ -80,3 +80,9 @@ Algumas extensões possíveis para o projeto incluem:
 ## Fonte dos Dados
 
 Polícia Rodoviária Federal – DATATRAN
+
+## Author
+
+Emanoel Victor  
+Data Science Student  
+Brazil
